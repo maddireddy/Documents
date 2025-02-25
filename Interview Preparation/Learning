@@ -1,0 +1,122 @@
+
+Tools:
+-------
+
+Notepad++/Editplus/Sublime - Notepad
+BeyondCompare - This is to compare the source files
+JDK and JRE -  
+
+	Java - 1.4 - 5 -- 7 - 8 - 11 -- 17(Yes)
+
+	JDK - Development Kit - Which contains libraries provided by Oracle
+
+	import java.util.*; -- .jar Oracle - %CLASSPATH% - Environment Variables
+
+
+	JRE - Java Runtime Environment - Environment Variables - %PATH%
+
+		javac - Compiling the java code - Compile Time Exceptions
+		java - .java into .class file - Runtime 
+
+
+	.class file will get loaded into VM(Virtual Machine) - Runtime Environment
+
+
+	cmd > java -version
+		> javac
+		> java
+
+IDE : 
+
+Eclipse/ IntelliJ - My Sugeestion
+
+
+Database:
+
+MySQL(Server - Which will be actual DB Instance)
+MySQL Workbench - Front end
+
+SQLDeveloper - MySQL/Oracle/DB2/Mongo etc
+
+Postman - Test end points
+
+--------------------------------------------------------------------------------------
+
+Microsoft Visio - Flow Diagrams
+Confluence - Create account 
+
+---------------- SVN ----------------
+
+Tortoise --- Download and Install
+
+$ git config --global user.name "SivaMaddireddy"
+$ git config --global user.email "maddireddynu@gmail.com"
+
+Bitbucket - Go-ahead and Create a insstance by logging in with your credentials
+
+-------------- Deploy -----------
+
+DEV - Development environment - Us
+
+	Module 1
+	Module 2
+	Module 3 >>> 
+
+CI/CD Pipeline > Jules > 
+
+	>> Compile(Scans)
+	>> Unit test > 70%
+	>> Jar/war
+	>> Enviornment
+			> sit -- >> <instance>
+			> uat >> <<instacnce>>
+			> prod >> <<instance>>
+
+SIT - Sandbox - System Integration Test Environment
+
+>> Test The entire application - Done
+
+UAT - User Integration Test  - Real Business Users
+
+>> Signoff - Testing been done - 
+
+PROD - Live evironment used by the business users
+(Weekends)
+
+Business users Test > Signoff > live > communicate to all the stake holders
+
+
+------------- Maintenance/PROD Support ----------------
+
+L1 > Incident (Service Now(Incident/Change(Source into PROD Deployment)) - P1(>1-3hr)/P2(~3-7hr)/P3 - ) - PROD Support
+
+L2 > DEV Support team who works closely with L1
+
+L3 - DEV/SIT/UAT - Non-PROD environment support teams
+
+----------------------
+
+80% - Environment/maintenacde/support/deployment/change management/scrum calls
+
+20% - Development 
+
+-----------------------------------------------------------------------------------
+
+JIRA Board - Agile Methodologies 
+
+Standup - 15 Mins ~~~~
+
+-----------------------------------------------------------------------------------
+
+Core Java
+
+
+Advanced Java(JDBC/Servelts/JSP)
+
+
+Enterprise Java()
+
+
+Frameworks
+
+
